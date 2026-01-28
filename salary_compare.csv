@@ -1,0 +1,5 @@
+emp_id,name,department,base_salary,working_days,days_present,actual_salary,dept_avg_salary
+105,Nusrat,HR,48000,22,21.0,45818,42848.33
+106,Rafi,IT,65000,22,21.0,62045,59829.25
+107,Sabbir,Sales,42000,22,19.0,36272,33363.0
+109,Imran,IT,70000,22,22.0,70000,59829.25

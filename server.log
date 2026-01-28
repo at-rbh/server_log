@@ -1,0 +1,9 @@
+2025-01-01 10:15:30 INFO User logged in
+2025-01-01 10:16:05 ERROR Database connection failed
+2025-01-01 10:17:45 WARNING Disk space low
+2025-01-01 10:18:10 INFO User performed action
+2025-01-01 10:19:00 ERROR Timeout occurred
+2025-01-01 10:20:30 INFO User logged out
+2025-01-01 11:05:12 ERROR Database connection failed
+2025-01-01 11:07:45 WARNING High memory usage
+2025-01-01 11:10:01 INFO User logged in

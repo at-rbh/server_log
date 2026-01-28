@@ -1,0 +1,13 @@
+BANK TRANSACTION SUMMARY
+------------------------------
+
+All Accounts:
+A103 | Nabila | Deposit: 8000 | Withdraw: 1000 | Balance: 7000
+A104 | Tanvir | Deposit: 4000 | Withdraw: 500 | Balance: 3500
+A102 | Karim | Deposit: 3000 | Withdraw: 2000 | Balance: 1000
+A101 | Rahim | Deposit: 7000 | Withdraw: 15000 | Balance: -8000
+
+Risk Accounts:
+A101 | Balance: -8000
+
+Highest Balance Holder:

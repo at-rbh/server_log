@@ -1,0 +1,11 @@
+All log file count
+INFO: 4
+WARNING: 2
+ERROR: 3
+
+frequency error data
+Database connection failed: 2
+Timeout occurred: 1
+
+Error peak hour
+10:00 - 10:59: 2

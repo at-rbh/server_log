@@ -1,0 +1,39 @@
+🔹 Phase 1: NumPy Basics (Foundation)
+
+NumPy কী & কেন দরকার
+
+ndarray কী
+
+array তৈরি করা
+
+dtype, shape, size
+
+🔹 Phase 2: Core Operations
+
+Indexing & slicing
+
+Boolean mask
+
+Vectorized operations
+
+Broadcasting
+
+🔹 Phase 3: Math & Stats
+
+sum, mean, std
+
+axis বুঝে কাজ
+
+min, max, argmax
+
+🔹 Phase 4: Advanced NumPy
+
+reshape, ravel, flatten
+
+stacking & splitting
+
+where, clip
+
+random module
+
+performance tricks

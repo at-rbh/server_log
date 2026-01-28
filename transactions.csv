@@ -1,0 +1,10 @@
+account_id,customer_name,transaction_type,amount
+A101,Rahim,deposit,5000
+A102,Karim,withdraw,2000
+A101,Rahim,withdraw,15000
+A103,Nabila,deposit,8000
+A102,Karim,deposit,3000
+A101,Rahim,deposit,2000
+A103,Nabila,withdraw,1000
+A104,Tanvir,withdraw,500
+A104,Tanvir,deposit,4000

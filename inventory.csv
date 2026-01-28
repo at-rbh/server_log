@@ -1,0 +1,8 @@
+item_id,item_name,category,price,quantity
+I101,Keyboard,Electronics,1500,12
+I102,Mouse,Electronics,800,5
+I103,Monitor,Electronics,18000,3
+I104,Chair,Furniture,4500,10
+I105,Table,Furniture,7000,2
+I106,Pen,Stationery,20,100
+I107,Notebook,Stationery,120,8
